@@ -1,3 +1,7 @@
+![](https://github.com/charan028/ai_code_review_agent/blob/main/output-gif/Screen%20Recording%202025-05-05%20at%209.07.27%E2%80%AFPM.gif)
+
+
+
 # AI Code Review
 
 A modern web application built with Next.js and Convex for AI-powered code review. This project demonstrates the integration of AI capabilities to assist in code review processes, providing automated analysis and suggestions for code improvements.
